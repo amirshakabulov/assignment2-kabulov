@@ -36,5 +36,7 @@ Here are the list of top 4 countries I have personally visited and worth of time
 ***
 ### Quotes Worth Remembering
 > "If life were predictable it would cease to be life, and be without flavor." - *Julius Caesar*
+> 
 > "When something is important enough, you do it even if the odds are not in your favor." - *Elon Musk*
+> 
 > "Veni, Vidi Vici." - *Julius Caesar* 
