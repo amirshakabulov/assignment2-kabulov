@@ -42,20 +42,23 @@ Here are the list of top 4 countries I have personally visited and worth of time
 > "Veni, Vidi Vici." - *Julius Caesar* 
 
 ---
-### Code Fencing
-> "How to comment out CSS statement with INNER comment? " - *StackOverflow*
+### Code Fencing based on my last digit of S number(8)
+> "How to check if a string starts with a specified string?" - *StackOverflow*
 
-[Link to the article](https://stackoverflow.com/questions/69467087/how-to-comment-out-css-statement-with-inner-comment)
+[Link to the article](https://stackoverflow.com/questions/2790899/how-to-check-if-a-string-starts-with-a-specified-string)
 
 ```
-/*
-  This is a 
-  comment in CSS
-*/
-body {
-  font-family: system-ui;
-  font-size: 62.5%  /* 1em = 10px */
-  line-height: 1.4;
-}
+<?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
 ```
-Link to useful code snippet: <https://css-tricks.com/snippets/css/comments-in-css/>
+Link to useful code snippet: <https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
