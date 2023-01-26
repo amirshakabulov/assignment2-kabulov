@@ -40,3 +40,21 @@ Here are the list of top 4 countries I have personally visited and worth of time
 > "When something is important enough, you do it even if the odds are not in your favor." - *Elon Musk*
 > 
 > "Veni, Vidi Vici." - *Julius Caesar* 
+
+---
+### Code Fencing
+> "How to comment out CSS statement with INNER comment? " - *StackOverflow*
+[Link to the article](https://stackoverflow.com/questions/69467087/how-to-comment-out-css-statement-with-inner-comment)
+
+```
+/*
+  This is a 
+  comment in CSS
+*/
+body {
+  font-family: system-ui;
+  font-size: 62.5%  /* 1em = 10px */
+  line-height: 1.4;
+}
+```
+[Link to useful code snippet]<https://css-tricks.com/snippets/css/comments-in-css/>
