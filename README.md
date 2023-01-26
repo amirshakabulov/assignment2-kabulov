@@ -29,6 +29,6 @@ Here are the list of top 4 countries I have personally visited and worth of time
 |Country Name | Reason for Visit                                   | Days to Spend |
 |     ---     |       ---                                          |      ---      |
 |United Arab Emirates| Burj Khalifa - tallest building in the world| 6 days
-|
-|
-|
+|Turkey              | Hagia Sophia - beatiful ancient mosque with long history| 4 days|
+|Russia              | Red Square - oldest and largest square in whole Russia| 6 days|
+|Uzbekistan          | Amir Temur Mausoleum - ancient mausoleum with long history| 5 days|
