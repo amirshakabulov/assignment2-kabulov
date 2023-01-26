@@ -58,4 +58,4 @@ body {
   line-height: 1.4;
 }
 ```
-"Link to useful code snippet:"<https://css-tricks.com/snippets/css/comments-in-css/>
+Link to useful code snippet: <https://css-tricks.com/snippets/css/comments-in-css/>
