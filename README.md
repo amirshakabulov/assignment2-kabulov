@@ -44,6 +44,7 @@ Here are the list of top 4 countries I have personally visited and worth of time
 ---
 ### Code Fencing
 > "How to comment out CSS statement with INNER comment? " - *StackOverflow*
+
 [Link to the article](https://stackoverflow.com/questions/69467087/how-to-comment-out-css-statement-with-inner-comment)
 
 ```
@@ -57,4 +58,4 @@ body {
   line-height: 1.4;
 }
 ```
-[Link to useful code snippet]<https://css-tricks.com/snippets/css/comments-in-css/>
+"Link to useful code snippet:"<https://css-tricks.com/snippets/css/comments-in-css/>
